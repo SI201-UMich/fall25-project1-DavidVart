@@ -1,0 +1,13 @@
+discount_tier,Category,num_orders,avg_quantity,avg_sales
+High,Furniture,293,3.805461,277.088505
+High,Office Supplies,680,3.957353,58.122275
+High,Technology,166,3.704819,749.035886
+Low,Furniture,128,3.992188,579.631004
+Low,Office Supplies,16,3.4375,270.259313
+Low,Technology,2,2.5,1705.4775
+Medium,Furniture,864,3.678241,382.632899
+Medium,Office Supplies,2201,3.7592,105.883569
+Medium,Technology,846,3.737589,376.678394
+None,Furniture,836,3.856459,306.250323
+None,Office Supplies,3129,3.798658,141.307127
+None,Technology,833,3.789916,467.866987

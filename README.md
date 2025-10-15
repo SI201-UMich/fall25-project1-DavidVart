@@ -22,8 +22,8 @@ Run tests:
 Generate outputs (creates `outputs/` if it does not exist):
 ```bash
 /usr/local/bin/python3 run_all.py \
-  /Users/Jorge/Desktop/UMich/SI_201-Data_Programming/fall25-project1-DavidVart/SampleSuperstore.csv \
-  /Users/Jorge/Desktop/UMich/SI_201-Data_Programming/fall25-project1-DavidVart/outputs
+  path to your csv file \
+  path to your output directory
 ```
 
 ### Calculations
